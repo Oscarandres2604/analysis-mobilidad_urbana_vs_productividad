@@ -1,6 +1,6 @@
 # Urban mobility and economic productivity in Latin American cities – Data analyst bootcamp, sprint 5
 
-This repository contains the analysis developed during Sprint 6, focused on understanding the relationship between urban mobility and economic productivity across major cities worldwide.
+This repository contains the analysis developed during Sprint 5, focused on understanding the relationship between urban mobility and economic productivity across major cities worldwide.
 
 The project combines TomTom Traffic Index and OECD city-level economic data, which were cleaned, standardized, filtered to 2024, aggregated by city, and merged into a unified dataset. The analysis uses Python to explore traffic congestion, travel delays, GDP per capita, unemployment, population, and other urban indicators through exploratory analysis and data visualizations.
 
