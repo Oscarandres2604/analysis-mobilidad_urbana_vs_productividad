@@ -7,7 +7,7 @@ The project combines TomTom Traffic Index and OECD city-level economic data, whi
 ## 📂 Repository contents
 
 - `S5 ladb_mobility_economy_project_student.ipynb`
-  → Notebook principal con limpieza, EDA, distribuciones, outliers y conclusiones.
+  → Main notebook covering data cleaning, transformation, city-level aggregation, exploratory analysis, visualizations, relationship analysis and key insights.
 
 ## ▶ How to open the notebook in Google Colab
 
@@ -20,9 +20,9 @@ Or:
 1. Open the file `.ipynb` on GitHub
 2. Click **Open in Colab**
 
-## 📘 Cómo reproducir el análisis
+## 📘 How to reproduce the analysis
 
-1. open `notebooks/everpeak_analysis.ipynb`
+1. open `S5 ladb_mobility_economy_project_student.ipynb`
 2. Run the cells in order
 
 ## 🧠 Purpose of the analysis
