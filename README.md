@@ -11,7 +11,7 @@ The project combines TomTom Traffic Index and OECD city-level economic data, whi
 
 ## ▶ How to open the notebook in Google Colab
 
-Haz clic en el siguiente botón:
+Click the following button:
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Oscarandres2604/analysis-mobilidad_urbana_vs_productividad/blob/main/S5_ladb_mobility_economy_project_student.ipynb)
 
@@ -22,13 +22,13 @@ Or:
 
 ## 📘 Cómo reproducir el análisis
 
-1. Abre `notebooks/everpeak_analysis.ipynb`
-2. Ejecuta las celdas en orden
-3. El notebook carga automáticamente el dataset desde `/data/` o desde un enlace público (según corresponda)
+1. open `notebooks/everpeak_analysis.ipynb`
+2. Run the cells in order
 
-## 🧠 Objetivo del análisis
+## 🧠 Purpose of the analysis
 
-- Identificar problemas de calidad de datos
-- Construir un pipeline de limpieza reproducible
-- Analizar comportamientos, distribuciones y outliers
-- Generar insights para el equipo de Estrategia e Integración de EverPeak
+- Asses urban mobility: Analyze traffic congestion, delays and travel times, across major cities.
+- Evaluate economic performance: Examine indicators such as GDP per capita, unemployment and population.
+- Identify relationships: Explore potential relationships between transportation efficiency and economic productivity.
+- Compare cities: Identify cities with their economic indicators to uncover relevant patterns.
+- Suport data-driven decisions: Provide key insights and conclusions based on the analysis conducted throughout the study. 
